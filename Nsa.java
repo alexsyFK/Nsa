@@ -11,7 +11,7 @@ import design.TelaCadastro;
 import design.Test;
 import javax.swing.JOptionPane;
 
-/**
+/*
  *
  * @author admin
  */
