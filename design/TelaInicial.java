@@ -1,6 +1,6 @@
 
 package design;
-//erited by alexsy
+//edited by alexsy
 
 import classes.Nsa;
 import java.awt.PopupMenu;
